@@ -8,13 +8,15 @@
 
 <h2>Products</h2>
 
-<p>Coming soon!</p>
+<p>More to come!</p>
 
 <ul style="list-style-type:disc;">
-  <li>Coming soon.</li>
+  <li>Embutido P250</li>
   <li>Coming soon.</li>
   <li>Coming soon.</li>
 </ul>
+
+<p>Hehe. Hi Lola Lina!</p>
 
 </body>
 <html>
